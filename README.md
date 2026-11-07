@@ -8,7 +8,7 @@
 
 ## اللي أشتغل عليه الحين
 
-- [arabic-reels-skills](https://github.com/ysucode/arabic-reels-skills): سكلين لـ Claude Code أسوي فيهم ريلز أنميشن بالعربي. «رواية» لفيلم بلقطة وحدة من قصة حقيقية، و«انمي» لريل بمقاطع Seedance
+- ريبو [arabic-reels-skills](https://github.com/ysucode/arabic-reels-skills) فيه سكلين لـ Claude Code أسوي فيهم ريلز أنميشن بالعربي. «رواية» لفيلم بلقطة وحدة من قصة حقيقية، و«انمي» لريل بمقاطع Seedance
 - صفحة روابطي، بنيت لها محرر ومعاينة بنفسي
 
 ## اللي أدرسه
