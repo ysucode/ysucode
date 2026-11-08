@@ -1,6 +1,6 @@
 <div dir="rtl" align="right">
 
-# هلا، أنا يوسف
+# هلا، أنا يوسف 👋
 
 طالب هندسة ذكاء اصطناعي، على مشارف التخرج.
 
@@ -9,7 +9,7 @@
 ## اللي أشتغل عليه الحين
 
 - ريبو [arabic-reels-skills](https://github.com/ysucode/arabic-reels-skills) فيه سكلين لـ Claude Code أسوي فيهم ريلز أنميشن بالعربي. «رواية» لفيلم بلقطة وحدة من قصة حقيقية، و«انمي» لريل بمقاطع Seedance
-- صفحة روابطي، بنيت لها محرر ومعاينة بنفسي
+- [صفحة روابطي](https://ysucode.github.io)، بنيت لها محرر ومعاينة بنفسي
 
 ## اللي أدرسه
 
@@ -39,6 +39,6 @@
 
 ## وين تلقاني
 
-[إنستقرام](https://www.instagram.com/ysu1008/) · [تيك توك](https://www.tiktok.com/@ysu108)
+[صفحة روابطي](https://ysucode.github.io) · [إنستقرام](https://www.instagram.com/ysu1008/) · [تيك توك](https://www.tiktok.com/@ysu108)
 
 </div>
